@@ -1,0 +1,13 @@
+ultralytics
+opencv-python
+numpy
+pandas
+
+fastapi
+uvicorn
+
+streamlit
+
+python-multipart
+
+pytest
