@@ -1,11 +1,7 @@
+data/*.mp4
+*.mp4
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-
 .venv/
 venv/
-
-output/events.jsonl
-
 .DS_Store
