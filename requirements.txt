@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ultralytics
 opencv-python
 numpy
@@ -10,4 +11,18 @@ streamlit
 
 python-multipart
 
+=======
+ultralytics
+opencv-python
+numpy
+pandas
+
+fastapi
+uvicorn
+
+streamlit
+
+python-multipart
+
+>>>>>>> a3c79fdb3403adfa83198b2a21fa4a3e44c83ebc
 pytest

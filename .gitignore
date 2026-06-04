@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 data/*.mp4
 *.mp4
 __pycache__/
 *.pyc
 .venv/
 venv/
+=======
+data/*.mp4
+*.mp4
+__pycache__/
+*.pyc
+.venv/
+venv/
+>>>>>>> a3c79fdb3403adfa83198b2a21fa4a3e44c83ebc
 .DS_Store
